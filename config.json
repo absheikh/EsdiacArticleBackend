@@ -1,7 +1,7 @@
 ﻿{
   "database": {
     "host": "us-cdbr-east-06.cleardb.net",
-    "port": 3306,
+    "port": 3000,
     "user": "b94136340bae46",
     "password": "ad0cb411",
     "database": "heroku_67fad634ead0719"
