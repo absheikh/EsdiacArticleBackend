@@ -1,10 +1,10 @@
 ﻿{
   "database": {
-    "host": "localhost",
+    "host": "us-cdbr-east-06.cleardb.net",
     "port": 3306,
-    "user": "root",
-    "password": "",
-    "database": "esdiac_db"
+    "user": "b94136340bae46",
+    "password": "ad0cb411",
+    "database": "heroku_67fad634ead0719"
   },
   "secret": "a99888c2-8fb8-4818-8c97-6fd0d76d59ef"
 }
