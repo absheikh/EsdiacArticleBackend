@@ -1,0 +1,10 @@
+﻿{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "esdiac_db"
+  },
+  "secret": "a99888c2-8fb8-4818-8c97-6fd0d76d59ef"
+}
