@@ -21,5 +21,5 @@ app.use(errorHandler);
 
 // start server
 const port =
-  process.env.NODE_ENV === "development" ? process.env.PORT || 5000 : 8080;
+  process.env.NODE_ENV === "development" ? process.env.PORT || 5000 : 3000;
 app.listen(port, () => console.log("Server listening on port " + port));
